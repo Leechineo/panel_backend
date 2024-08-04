@@ -2,7 +2,7 @@
 
 ## Variables:
 
-- MONGO_DB_URL
+- AUTH_HASH
 - MONGO_DB_URL
 
 - FIREBASE_CERTS_DIRECTORY
